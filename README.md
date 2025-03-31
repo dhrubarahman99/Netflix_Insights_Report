@@ -1,5 +1,5 @@
 # Netflix_Insights_Report
-### Dashboard Link : [Netflix Power BI Dashboard](https://app.powerbi.com/groups/me/reports/37c4fcae-9f72-4725-ac9d-68373b251709/be44d5194675a9b4e7ae?experience=power-bi)
+### Dashboard Link : [View Dashboard](https://app.powerbi.com/groups/me/reports/37c4fcae-9f72-4725-ac9d-68373b251709/be44d5194675a9b4e7ae?experience=power-bi)
 Netflix Insights Report is an interactive Power BI report that helps users explore Netflix content by filtering movies and TV shows based on title, release year, rating, cast, and availability by country. With a sleek, Netflix-inspired UI, this report enhances content discovery and provides a visually engaging way to analyze streaming data. 🚀
 
 ## Problem Statement
