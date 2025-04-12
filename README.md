@@ -17,10 +17,10 @@ By using this report, users can:
 
 ## Steps Followed
 
-- **Step 1**: Loaded the Netflix dataset (CSV format) into Power BI Desktop.
-- **Step 2**: Opened Power Query Editor and performed data cleaning by handling missing values and checking for errors.
+- **Step 1**: Loaded the Netflix dataset (CSV format) into MySQL.
+- **Step 2**: Performed data cleaning by handling missing values and checking for errors.
 - **Step 3**: Transformed and formatted relevant columns, such as converting date fields and categorizing ratings.
-- **Step 4**: Created various visualizations to present key data points:
+- **Step 4**: Opened Power Bi and created various visualizations to present key data points:
   - **Movie/TV Show Filter**: A dropdown selector to filter by title.
   - **Release Year & Rating**: Display cards showing the year of release and rating.
   - **Description Box**: A text area providing a summary of the selected content.
